@@ -15,8 +15,8 @@ import pandas as pd
 # https://myaccount.google.com/lesssecureapps
 
 host = "imap.gmail.com"
-username = 'moveo.remote.access'
-password = 'moveo25624'
+username = 'remote.access'
+password = 'password'
 download_folder = "/Users/lmcnutt/Desktop/bin1"
 
 if not os.path.isdir(download_folder):
