@@ -1,2 +1,2 @@
 # gmail-autosend
-Simplescript for autmatic gmail actions
+Simple script for autmatic gmail actions
